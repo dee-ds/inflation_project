@@ -20,7 +20,7 @@ The aim of this project is to investigate and describe the dynamics of inflation
 
 The analysis has been performed using the Python language, and enclosed in the form of Jupyter notebooks as follows:
 
-* the `0-data_cleaning.ipynb` notebook includes the description of data collection and cleaning operations,
+* the <a href='0-data_cleaning.ipynb'> `0-data_cleaning.ipynb` </a> notebook includes the description of data collection and cleaning operations,
 * the `1-inflation_analysis.ipynb` notebook contains the investigations on the inflation (price indices) dynamics, and
 * the `2-wages_analysis.ipynb` notebook includes the analysis of the wages and their relations with the prices.
 
