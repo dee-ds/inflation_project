@@ -24,6 +24,6 @@ The analysis has been performed using the Python language, and enclosed in the f
 * the <a href='1-inflation_analysis.ipynb'>`1-inflation_analysis.ipynb`</a> notebook contains the investigations on the inflation (price indices) dynamics, and
 * the <a href='2-wages_analysis.ipynb'>`2-wages_analysis.ipynb`</a> notebook includes the analysis of the wages and their relations with the prices.
 
-The raw data files (.csv) can be found in the <a href='raw_data'>`raw_data`</a> catalogue, with all the cleaned datasets stored in the `inflation_database.db` database. The `voivodeships_map_data` catalogue contains the geospatial data of Polish voivodeships, which are used to present the results on maps.
+The raw data files (.csv) can be found in the <a href='raw_data'>`raw_data`</a> catalogue, with all the cleaned datasets stored in the <a href='inflation_database.db'>`inflation_database.db`</a> database. The <a href='voivodeships_map_data'>`voivodeships_map_data`</a> catalogue contains the geospatial data of Polish voivodeships, which are used to present the results on maps.
 
-The code has been run under `python ver. 3.11.0` and the libraries listed in the `requirements.txt` file. All the utility functions used in the notebooks can be found in the `utils.py` file.
+The code has been run under `python ver. 3.11.0` and the libraries listed in the <a href='requirements.txt'>`requirements.txt`</a> file. All the utility functions used in the notebooks can be found in the <a href='utils.py'>`utils.py`</a> file.
