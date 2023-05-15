@@ -20,10 +20,10 @@ The aim of this project is to investigate and describe the dynamics of inflation
 
 The analysis has been performed using the Python language, and enclosed in the form of Jupyter notebooks as follows:
 
-* the <a href='0-data_cleaning.ipynb'> `0-data_cleaning.ipynb` </a> notebook includes the description of data collection and cleaning operations,
-* the `1-inflation_analysis.ipynb` notebook contains the investigations on the inflation (price indices) dynamics, and
-* the `2-wages_analysis.ipynb` notebook includes the analysis of the wages and their relations with the prices.
+* the <a href='0-data_cleaning.ipynb'>`0-data_cleaning.ipynb`</a> notebook includes the description of data collection and cleaning operations,
+* the <a href='1-inflation_analysis.ipynb'>`1-inflation_analysis.ipynb`</a> notebook contains the investigations on the inflation (price indices) dynamics, and
+* the <a href='2-wages_analysis.ipynb'>`2-wages_analysis.ipynb`</a> notebook includes the analysis of the wages and their relations with the prices.
 
-The raw data files (.csv) can be found in the `raw_data` catalogue, with all the cleaned datasets stored in the `inflation_database.db` database. The `voivodeships_map_data` catalogue contains the geospatial data of Polish voivodeships, which are used to present the results on maps.
+The raw data files (.csv) can be found in the <a href='raw_data'>`raw_data`</a> catalogue, with all the cleaned datasets stored in the `inflation_database.db` database. The `voivodeships_map_data` catalogue contains the geospatial data of Polish voivodeships, which are used to present the results on maps.
 
 The code has been run under `python ver. 3.11.0` and the libraries listed in the `requirements.txt` file. All the utility functions used in the notebooks can be found in the `utils.py` file.
