@@ -1,4 +1,4 @@
-## The inflation project
+## The Inflation Project
 
 This project is focused on investigating the inflation phenomenon in Poland over the last years and its impact on the consumers' situation.
 
