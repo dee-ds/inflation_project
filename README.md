@@ -18,7 +18,7 @@ The aim of this project is to investigate and describe the dynamics of inflation
 
 ### Tools and methods
 
-The analysis has been performed using the Python language, and enclosed in the form of Jupyter notebooks as follows:
+The analysis has been performed using the Python language and enclosed in the form of Jupyter notebooks as follows:
 
 * the <a href='0-data_cleaning.ipynb'>`0-data_cleaning.ipynb`</a> notebook includes the description of data collection and cleaning operations,
 * the <a href='1-inflation_analysis.ipynb'>`1-inflation_analysis.ipynb`</a> notebook contains the investigations on the inflation (price indices) dynamics, and
