@@ -2,7 +2,7 @@
 
 This project is focused on investigating the inflation phenomenon in Poland over the last years and its impact on the consumers' situation.
 
-#### Motivation
+### Motivation
 
 Beginning from 2022, we can observe an unusual increases of the inflation level in many countries around the world. The stable evolution of prices is a natural process in healthy and developing economies, but when the pace of growths becomes too high, especially exceeding the rises of people's wages, the situation gets challenging. The analysis of the inflation data allows to study the problem, uncovering not only how the prices changed over the last years, but also what was their impact on the consumers.
 
