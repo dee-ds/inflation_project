@@ -370,8 +370,8 @@ def voivs_hypothesis(df: pd.DataFrame, good: str = 'GRAND TOTAL'):
         wald_stat = data_mean / data_std  # the Wald statistic
         p_value = 2 * norm_var.cdf(-abs(wald_stat))  # the p-value
         
-        # fill the matrix (lower triangular part)
-        df_p_values.at[voiv2, voiv1] = p_value
+        # fill the matrix
+        df_p_values.at[voiv1, voiv2] = df_p_values.at[voiv2, voiv1] = p_value
     
     return df_p_values
 
